@@ -49,7 +49,8 @@ class Fact {
     'Is faster than <a href="http://en.wikipedia.org/wiki/%4C%4F%49%43">loic</a>. With his mouse.',
     'Never pushes to trunk. Trunk pulls from him.',
     'Found only russian brides',
-    'Totally could have phished Bruce Schneier.  But he\'s just too nice to do it.'
+    'Totally could have phished Bruce Schneier.  But he\'s just too nice to do it.',
+    'Has tried algorithms',
   );
 
   public function __construct($id = null) {
